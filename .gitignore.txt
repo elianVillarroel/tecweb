@@ -1,0 +1,24 @@
+# Ignorar carpetas y archivos del sistema
+*.lnk
+*.log
+*.blf
+*.regtrans-ms
+NTUSER.DAT*
+AppData/
+Documents/
+Downloads/
+Music/
+Pictures/
+Videos/
+VirtualBox VMs/
+Favorites/
+OneDrive/
+Cisco Packet Tracer*/
+
+# Ignorar carpetas de configuración del sistema
+.vscode/
+.VirtualBox/
+.android/
+.arduinoIDE/
+.gitconfig
+.packettracer/
